@@ -16,3 +16,8 @@
   60 git status
   61 rm new.py
   62 ls
+lalsma
+andjafn
+zncjasnfa;
+csjcaofj
+jhduadka
