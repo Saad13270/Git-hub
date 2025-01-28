@@ -1,0 +1,18 @@
+5 git restore first.py
+  46 ls
+  47 git init
+  48 clear
+  49 git commit -m "my code"
+  50 ls
+  51 git restore first.py
+  52 git rm new.py
+  53 clear
+  54 rm new.py
+  55 ls
+  56 git status
+  57 git restore new.py
+  58 git init
+  59 git add new.py
+  60 git status
+  61 rm new.py
+  62 ls
